@@ -1,0 +1,51 @@
+<irplus>
+<device manufacturer="ELAP" model="Virtuoz full" columns="12" format="WINLIRC_NEC1" repeatheader="false">
+<button label="&#61457;" labelSize="25.0" span="6" backgroundColor="FFC84334">0x08f7 0x50AF</button>
+<button label="&#1045889;" labelSize="25.0" span="6">0x08f7 0x22DD</button>
+<button label="1" labelSize="25.0" span="4">0x08f7 0x8877</button>
+<button label="2" labelSize="25.0" span="4">0x08f7 0x48b7</button>
+<button label="3" labelSize="25.0" span="4">0x08f7 0xc837</button>
+<button label="4" labelSize="25.0" span="4">0x08f7 0x28d7</button>
+<button label="5" labelSize="25.0" span="4">0x08f7 0xa857</button>
+<button label="6" labelSize="25.0" span="4">0x08f7 0x6897</button>
+<button label="7" labelSize="25.0" span="4">0x08f7 0xe817</button>
+<button label="8" labelSize="25.0" span="4">0x08f7 0x18e7</button>
+<button label="9" labelSize="25.0" span="4">0x08f7 0x9867</button>
+<button label="AV" labelSize="18.0" span="4">0x08f7 0xc23d</button>
+<button label="0" labelSize="25.0" span="4">0x08f7 0x08f7</button>
+<button label="&#1045587;" labelSize="18.0" span="4">0x08f7 0xb847</button>
+<button label="VOL+" labelSize="18.0" span="3">0x08f7 0xa45b</button>
+<button label="MENU" labelSize="18.0" span="3">0x08f7 0x58a7</button>
+<button label="EXIT" labelSize="18.0" span="3">0x08f7 0x906f</button>
+<button label="CH+" labelSize="18.0" span="3" backgroundColor="FF3F3F93">0x08f7 0x847b</button>
+<button label="VOL-" labelSize="18.0" span="3">0x08f7 0xe41b</button>
+<button label="&#61656;" labelSize="25.0" span="6">0x08f7 0x00ff</button>
+<button label="CH-" labelSize="18.0" span="3" backgroundColor="FF424293">0x08f7 0x44bb</button>
+<button label="&#61657;" labelSize="25.0" span="4">0x08f7 0xc03f</button>
+<button label="OK" labelSize="25.0" span="4">0x08f7 0xf807</button>
+<button label="&#61658;" labelSize="25.0" span="4">0x08f7 0x40bf</button>
+<button label="&#1044796;" labelSize="25.0" span="3">0x08f7 0xe01f</button>
+<button label="&#61655;" labelSize="25.0" span="6">0x08f7 0x807f</button>
+<button label="&#1044799;" labelSize="25.0" span="3">0x08f7 0xa05f</button>
+<button label="" labelSize="25.0" span="3" backgroundColor="FFFF4242">0x08f7 0xb24d</button>
+<button label="" labelSize="25.0" span="3" backgroundColor="FF42FF42">0x08f7 0xb04f</button>
+<button label="&#1045888;" labelSize="18.0" span="3" backgroundColor="FFFFFF42">0x08f7 0x708f</button>
+<button label="&#1046266;" labelSize="18.0" span="3" backgroundColor="FF4242FF">0x08f7 0xf00f</button>
+<button label="&#1044569;" labelSize="25.0" span="3">0x08f7 0x02fd</button>
+<button label="&#1044782;" labelSize="25.0" span="3">0x08f7 0x827d</button>
+<button label="&#61516;" labelSize="25.0" span="3">0x08f7 0x42bd</button>
+<button label="&#1044783;" labelSize="25.0" span="3">0x08f7 0x12ed</button>
+<button label="&#1045577;" labelSize="25.0" span="3">0x08f7 0xa25d</button>
+<button label="&#1045719;" labelSize="25.0" span="3">0x08f7 0x649b</button>
+<button label="&#1045718;" labelSize="25.0" span="3">0x08f7 0xc43b</button>
+<button label="&#1045720;" labelSize="25.0" span="3">0x08f7 0x14eb</button>
+<button label="&#1045323;" labelSize="25.0" span="3">0x08f7 0xd22d</button>
+<button label="&#1046046;" labelSize="25.0" span="3">0x08f7 0x946b</button>
+<button label="&#1046047;" labelSize="25.0" span="3">0x08f7 0x0cf3</button>
+<button label="&#1046048;" labelSize="25.0" span="3">0x08f7 0x04fb</button>
+<button label="SAT" labelSize="25.0" span="3">0x08f7 0x609f</button>
+<button label="&#1044737;" labelSize="25.0" span="3">0x08f7 0x54ab</button>
+<button label="&#1044670;" labelSize="25.0" span="3">0x08f7 0x8c73</button>
+<button label="&#1045978;" labelSize="25.0" span="3">0x08f7 0xc21</button>
+</device>
+</irplus>
