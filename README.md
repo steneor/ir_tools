@@ -3,11 +3,11 @@ Infra red tools
 
 Lecture de code infra rouge via TSOP38238
 
-#Ir-keytable
+# Ir-keytable
 ir-keytable -c -p all -t
 
 
-# Sources:
+# Sources
 Appli ir-plus pour android: https://play.google.com/store/apps/details?id=net.binarymode.android.irplus&hl=fr&gl=US
 
 Site ir-plus: https://irplus-remote.github.io/
