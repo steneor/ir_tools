@@ -78,7 +78,7 @@ while True:
 		# codehex= hex((int(binaryString[1:33],2)))
 		print str.format('0x{:08X}', int(hex((int(binaryString[1:33],2))), 16)),
 		print str.format('0x{:04X}', int(hex((int(binaryString[1:17],2))), 16)),
-		print str.format('0x{:04X}', int(hex((int(binaryString[18:33],2))), 16))
+		print str.format('0x{:04X}', int(hex((int(binaryString[17:33],2))), 16))
 
 	else:
 		print "00"
