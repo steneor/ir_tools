@@ -12,7 +12,7 @@ IRplus permet de saisir les codes IR, sauvegarde des télécommandes format "mat
 ### Le récepteur
 ![This is an image](./images/sat.elap.virtuoz.hd.fransat.recepteur.png)
 
-### Ir-plus telecomandes
+### Ir-plus telecommandes
 ![This is an image](./images/irplus.elap.virtuoz.simple.jpg)  ![This is an image](./images/irplus.elap.virtuoz.full.jpg)
 
 
