@@ -6,14 +6,13 @@ Après plusieurs essais j'ai enfin trouvé la bonne appli:
 IRplus permet de saisir les codes IR, sauvegarde des télécommandes format "matelecommande.irplus".
 ...
 
-### la télécommande
-![This is an image](./images/sat.elap.virtuoz.hd.fransat.remote.jpg)
-
-### Le récepteur
-![This is an image](./images/sat.elap.virtuoz.hd.fransat.recepteur.png)
-
-### Ir-plus telecommandes
-![This is an image](./images/irplus.elap.virtuoz.simple.jpg)  ![This is an image](./images/irplus.elap.virtuoz.full.jpg)
+## la télécommande et le récepteur
+<img src="./images/sat.elap.virtuoz.hd.fransat.remote.jpg" width="128" height="512" alt="remote"/>
+<img src="./images/sat.elap.virtuoz.hd.fransat.recepteur.png" width="512" height="" alt="recepteur"/>
 
 
+## Ir-plus télécommandes - simple et full
+<img src="./images/irplus.elap.virtuoz.simple.jpg" width="256" height="" alt="remote"/>
+<&nbsp>
+<img src="./images/irplus.elap.virtuoz.full.jpg" width="256" height="" alt="remote"/>
 
