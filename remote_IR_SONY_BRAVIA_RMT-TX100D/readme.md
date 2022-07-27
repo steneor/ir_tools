@@ -7,7 +7,7 @@ Cela pourra servir ...
 
 
 ## la télécommande
-<img src="./images/sony.RMT-TX100D.jpg" width="256" alt="remote"/>
+<img src="./images/sony.RMT-TX100D.jpg" width="512" alt="remote"/>
 
 
 ## Ir-plus télécommande - SONY RMT-TX100D
